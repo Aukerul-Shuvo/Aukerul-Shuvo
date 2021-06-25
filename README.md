@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aukerul-Shuvo
-- 👀 I’m interested in Generative Models, Computer Vision and Deep Learning, Synthetic Data.
+- 👀 I’m interested in Generative Models, Computer Vision, Deep Learning, Synthetic Data.
 - 🌱 I’m currently learning Generative Adversarial Networks (GANs)
 - 💞️ I’m looking to collaborate on any project/thesis on Generative Models
 - 📫 Reach me on: LinkedIn: https://www.linkedin.com/in/aukerul-moin-shuvo/
