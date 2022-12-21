@@ -33,4 +33,4 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Aukerul-Shuvo
+https://github-readme-streak-stats.herokuapp.com/?user=aukerul-shuvo
