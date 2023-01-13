@@ -37,6 +37,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aukerul-Shuvo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=your-user-name&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Aukerul-Shuvo&style=flat-square&color=blue" alt=""/>
 
 
