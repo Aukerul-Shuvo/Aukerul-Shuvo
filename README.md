@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aukerul-Shuvo
-- 👀 I’m interested in Generative Models, Computer Vision, Deep Learning, Synthetic Data.
-- 🌱 I’m currently working on synthetic data generation, object detection, NLP 
-- 💞️ I’m looking to collaborate on any project/thesis on Generative Models
+- 💞️ 3+ YoE in GenAI
+- 👀 I’m interested in FMs, LLMs, Generative Models, Computer Vision, Deep Learning, and Synthetic Data.
+- 🌱 I’m currently working on FMs, RAG, and GenAI-based products
 - 📫 Reach me on: LinkedIn: https://www.linkedin.com/in/aukerul-moin-shuvo/
 
 <!---
@@ -30,12 +30,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div> -->
 
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aukerul-Shuvo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-<img src="https://komarev.com/ghpvc/?username=Aukerul-Shuvo&style=flat-square&color=blue" alt=""/>
 
 
