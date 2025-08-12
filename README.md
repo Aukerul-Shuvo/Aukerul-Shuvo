@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aukerul-Shuvo
-- 💞️ 3+ YoE in GenAI
+- 💞️ Almost 4 YoE in GenAI
 - 👀 I’m interested in FMs, LLMs, Generative Models, Computer Vision, Deep Learning, and Synthetic Data.
 - 🌱 I’m currently working on FMs, RAG, and GenAI-based products
 - 📫 Reach me on: LinkedIn: https://www.linkedin.com/in/aukerul-moin-shuvo/
